@@ -1,3 +1,3 @@
 # Kalkulator
 
-#Kalkutar build in HTML,CSS,Javascript and PHP
+#Kalkulator build in HTML,CSS,Javascript and PHP
